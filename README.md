@@ -1,3 +1,2 @@
 # Fábrica de Software
-Desafios dos dias de workshop!
-Trabalhos entregues!
+Desafios dos dias de workshop e trabalhos entregues!
